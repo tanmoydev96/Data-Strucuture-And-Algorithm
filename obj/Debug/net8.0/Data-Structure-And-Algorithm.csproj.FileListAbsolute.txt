@@ -1,5 +1,0 @@
-D:\Dev\Leetcode\Data-Structure-And-Algorithm\obj\Debug\net8.0\Data-Structure-And-Algorithm.GeneratedMSBuildEditorConfig.editorconfig
-D:\Dev\Leetcode\Data-Structure-And-Algorithm\obj\Debug\net8.0\Data-Structure-And-Algorithm.AssemblyInfoInputs.cache
-D:\Dev\Leetcode\Data-Structure-And-Algorithm\obj\Debug\net8.0\Data-Structure-And-Algorithm.AssemblyInfo.cs
-D:\Dev\Leetcode\Data-Structure-And-Algorithm\obj\Debug\net8.0\Data-Structure-And-Algorithm.csproj.CoreCompileInputs.cache
-D:\Dev\Leetcode\Data-Structure-And-Algorithm\obj\Debug\net8.0\Data-Structure-And-Algorithm.sourcelink.json
