@@ -1,0 +1,65 @@
+# Build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.filters
+*.vcxproj.user
+
+# Project files (keep the CSPROJ but ignore other project types)
+*.vcxproj
+*.csproj.user
+*.csproj.vspscc
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# IntelliSense
+*.csproj.nuget.*
+*.nuget.*
+.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local development files
+*.local
+*.backup
+*.tmp
